@@ -86,4 +86,4 @@ CSS                      1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ## Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bemooooooooo&repo=Gui-for-DataBase)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bemooooooooo&repo=FileService)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bemooooooooo&repo=Gui-for-DataBase)](https://github.com/bemooooooooo/Gui-for-DataBase) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bemooooooooo&repo=FileService)](https://github.com/bemooooooooo/FileService)
