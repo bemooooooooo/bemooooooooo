@@ -9,13 +9,15 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bemooooooooo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 349.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 29 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,19 +52,18 @@ Sunday                   42 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-C++                      1 hr 18 mins        ██████████████████████░░░   89.92 % 
-JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+C++                      25 mins             ███████████████████████░░   92.55 % 
+C#                       2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
 
 🔥 Editors: 
-VS Code                  1 hr 27 mins        █████████████████████████   100.00 % 
+VS Code                  25 mins             ███████████████████████░░   92.55 % 
+Cursor                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
 
 🐱‍💻 Projects: 
-PC                       1 hr 27 mins        █████████████████████████   100.00 % 
+PC                       27 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 27 mins        █████████████████████████   100.00 % 
+Windows                  27 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -82,7 +83,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 18/03/2025 18:44:56 UTC
+ Last Updated on 19/03/2025 18:44:39 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
