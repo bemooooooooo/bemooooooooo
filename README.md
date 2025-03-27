@@ -9,8 +9,6 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bemooooooooo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%204%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -50,16 +48,21 @@ Sunday                   42 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   21 mins             ████████████████░░░░░░░░░   62.63 % 
+Text                     7 mins              ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+YAML                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Docker                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  33 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+quest                    23 mins             █████████████████░░░░░░░░   68.34 % 
+PC                       10 mins             ████████░░░░░░░░░░░░░░░░░   31.66 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  33 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -79,7 +82,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 26/03/2025 18:44:55 UTC
+ Last Updated on 27/03/2025 18:44:39 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
