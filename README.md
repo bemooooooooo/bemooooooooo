@@ -9,7 +9,7 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bemooooooooo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -50,20 +50,20 @@ Sunday                   42 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   3 hrs 19 mins       ███████████████████████░░   93.89 % 
-Docker                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Image (jpeg)             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Python                   4 hrs 35 mins       ████████████████████████░   95.51 % 
+Docker                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Image (jpeg)             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-quest                    3 hrs 32 mins       █████████████████████████   100.00 % 
+quest                    4 hrs 48 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -83,7 +83,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 03/04/2025 18:44:24 UTC
+ Last Updated on 04/04/2025 18:43:51 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
