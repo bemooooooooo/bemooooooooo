@@ -9,15 +9,13 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bemooooooooo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 349.2 kB Used in GitHub's Storage 
- > 
-> 🏆 29 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,20 +50,21 @@ Sunday                   42 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   2 hrs 10 mins       ████████████████████████░   97.51 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   3 hrs 21 mins       █████████████████████████   98.36 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PC                       2 hrs               ███████████████████████░░   90.38 % 
-quest                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+PC                       2 hrs               ███████████████░░░░░░░░░░   58.82 % 
+quest                    1 hr 24 mins        ██████████░░░░░░░░░░░░░░░   41.18 % 
 
 💻 Operating System: 
-Windows                  2 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -85,7 +84,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 25/04/2025 18:44:35 UTC
+ Last Updated on 26/04/2025 18:41:47 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
