@@ -9,7 +9,7 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bemooooooooo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -50,21 +50,17 @@ Sunday                   42 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   3 hrs 21 mins       █████████████████████████   98.36 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   1 hr 24 mins        █████████████████████████   99.96 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 25 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 24 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PC                       2 hrs               ███████████████░░░░░░░░░░   58.82 % 
-quest                    1 hr 24 mins        ██████████░░░░░░░░░░░░░░░   41.18 % 
+quest                    1 hr 24 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 24 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -84,7 +80,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 26/04/2025 18:41:47 UTC
+ Last Updated on 27/04/2025 18:42:15 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
