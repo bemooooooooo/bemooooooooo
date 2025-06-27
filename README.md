@@ -50,16 +50,21 @@ Sunday                   42 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Docker                   25 mins             ██████████████████░░░░░░░   70.86 % 
+JSON                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+C++                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+CMake                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  36 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+FileService              33 mins             ███████████████████████░░   90.71 % 
+PC                       3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  36 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -79,7 +84,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2025 18:48:27 UTC
+ Last Updated on 27/06/2025 18:47:45 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
