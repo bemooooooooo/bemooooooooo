@@ -11,7 +11,7 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -52,21 +52,16 @@ Sunday                   42 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Docker                   25 mins             ██████████████████░░░░░░░   70.86 % 
-JSON                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-C++                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-CMake                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-FileService              33 mins             ███████████████████████░░   90.71 % 
-PC                       3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -86,7 +81,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2025 18:47:52 UTC
+ Last Updated on 04/07/2025 18:46:42 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
