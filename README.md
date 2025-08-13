@@ -9,13 +9,15 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bemooooooooo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 349.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 43 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,21 +52,22 @@ Sunday                   42 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Go                       11 hrs 38 mins      ███████████████████████░░   92.67 % 
-Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Go                       14 hrs 24 mins      ████████████████████░░░░░   79.45 % 
+Markdown                 1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Java                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Docker                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+JavaScript               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 34 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 10 mins      ██████████████████████░░░   89.23 % 
+Cursor                   1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
 
 🐱‍💻 Projects: 
-PC                       12 hrs 29 mins      █████████████████████████   99.39 % 
-Py-backend               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+PC                       18 hrs 7 mins       █████████████████████████   100.00 % 
 go_project               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  12 hrs 34 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -84,7 +87,7 @@ SystemVerilog            1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2025 18:50:41 UTC
+ Last Updated on 13/08/2025 18:49:20 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
