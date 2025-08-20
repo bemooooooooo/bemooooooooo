@@ -9,13 +9,15 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bemooooooooo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 349.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 47 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,22 +52,21 @@ Sunday                   45 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-JavaScript               11 hrs 29 mins      █████████░░░░░░░░░░░░░░░░   37.89 % 
-Go                       6 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-Java                     4 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Docker                   1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-YAML                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+JavaScript               11 hrs 12 mins      ████████████░░░░░░░░░░░░░   47.04 % 
+Java                     3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Go                       3 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+YAML                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Docker                   1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 21 mins      ███████████████████████░░   93.56 % 
-Cursor                   1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+VS Code                  23 hrs 49 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PC                       17 hrs 13 mins      ██████████████░░░░░░░░░░░   56.84 % 
-booking_java_go          13 hrs 5 mins       ███████████░░░░░░░░░░░░░░   43.16 % 
+booking_java_go          13 hrs 5 mins       ██████████████░░░░░░░░░░░   54.91 % 
+PC                       10 hrs 44 mins      ███████████░░░░░░░░░░░░░░   45.09 % 
 
 💻 Operating System: 
-Windows                  30 hrs 19 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -85,7 +86,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2025 18:46:19 UTC
+ Last Updated on 20/08/2025 18:48:32 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
