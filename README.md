@@ -15,7 +15,9 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
 
 **🐱 My GitHub Data** 
 
-> 📦 349.6 kB Used in GitHub's Storage 
+> 📦 356.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 47 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -79,7 +81,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2025 18:44:26 UTC
+ Last Updated on 02/09/2025 18:44:29 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
