@@ -15,7 +15,7 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
 
 **🐱 My GitHub Data** 
 
-> 📦 358.9 kB Used in GitHub's Storage 
+> 📦 359.0 kB Used in GitHub's Storage 
  > 
 > 🏆 49 Contributions in the Year 2025
  > 
@@ -52,16 +52,17 @@ Sunday                   46 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Go                       0 secs              █████████████████████████   100.00 % 
+Go                       25 mins             █████████████████████████   99.86 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  25 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-auth-api-go              0 secs              █████████████████████████   100.00 % 
+auth-api-go              25 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  25 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -81,7 +82,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2025 18:41:54 UTC
+ Last Updated on 08/09/2025 18:45:20 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
