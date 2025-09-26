@@ -11,7 +11,7 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -83,7 +83,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2025 18:46:22 UTC
+ Last Updated on 26/09/2025 18:44:22 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
