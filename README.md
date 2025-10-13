@@ -52,22 +52,16 @@ Sunday                   48 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Go                       1 hr 5 mins         ████████████████████░░░░░   78.87 % 
-JSON                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 23 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-go_project               1 hr 22 mins        █████████████████████████   99.55 % 
-MYbitly                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-LogParser                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 23 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -87,7 +81,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2025 18:42:03 UTC
+ Last Updated on 13/10/2025 18:45:27 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
