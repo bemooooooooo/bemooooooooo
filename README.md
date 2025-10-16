@@ -9,6 +9,8 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bemooooooooo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2020%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -79,7 +81,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2025 18:47:01 UTC
+ Last Updated on 16/10/2025 18:47:14 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
