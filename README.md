@@ -9,6 +9,8 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bemooooooooo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%202%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -50,22 +52,16 @@ Sunday                   48 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   2 hrs 20 mins       ████████████████████░░░░░   79.90 % 
-C++                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-Text                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-SQL                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 55 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-itam-python-courses      1 hr 56 mins        █████████████████░░░░░░░░   66.44 % 
-python-course            46 mins             ███████░░░░░░░░░░░░░░░░░░   26.56 % 
-engine                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 55 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -85,7 +81,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2025 18:44:52 UTC
+ Last Updated on 04/11/2025 18:48:07 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
