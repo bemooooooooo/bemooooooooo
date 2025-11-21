@@ -52,16 +52,17 @@ Sunday                   48 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 50 mins             ██████████████████░░░░░░░   70.05 % 
+SQL                      21 mins             ███████░░░░░░░░░░░░░░░░░░   29.95 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 12 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+databases-misis          1 hr 12 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -81,7 +82,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2025 18:49:16 UTC
+ Last Updated on 21/11/2025 18:44:53 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
