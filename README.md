@@ -9,7 +9,7 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bemooooooooo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -52,17 +52,19 @@ Sunday                   51 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   1 hr 23 mins        █████████████████████████   100.00 % 
+Python                   4 hrs 50 mins       ████████████████████████░   94.12 % 
+Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  1 hr 23 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tutorsCastle             1 hr 5 mins         ████████████████████░░░░░   78.54 % 
-Пробное занятие по програ17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
+tutorsCastle             4 hrs 50 mins       ████████████████████████░   94.16 % 
+Пробное занятие по програ17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 
 💻 Operating System: 
-Windows                  1 hr 23 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -82,7 +84,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 20/01/2026 19:38:23 UTC
+ Last Updated on 21/01/2026 19:03:54 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
