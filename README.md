@@ -9,7 +9,7 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bemooooooooo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -52,18 +52,19 @@ Sunday                   51 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-CSS                      1 hr 28 mins        ██████████████████████░░░   89.10 % 
-HTML                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+CSS                      1 hr 30 mins        ██████████████████░░░░░░░   72.03 % 
+HTML                     35 mins             ███████░░░░░░░░░░░░░░░░░░   27.95 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  1 hr 39 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ПР2                      1 hr 39 mins        █████████████████████████   100.00 % 
+ПР2                      1 hr 39 mins        ████████████████████░░░░░   78.82 % 
+ПР3                      26 mins             █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
 
 💻 Operating System: 
-Windows                  1 hr 39 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -83,7 +84,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 28/02/2026 18:53:42 UTC
+ Last Updated on 01/03/2026 18:55:04 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
