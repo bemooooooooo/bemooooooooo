@@ -52,17 +52,16 @@ Sunday                   51 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-SQL                      9 mins              █████████████████░░░░░░░░   69.86 % 
-JavaScript               3 mins              ████████░░░░░░░░░░░░░░░░░   30.14 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-booking_java_go          12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -82,7 +81,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 24/03/2026 19:34:02 UTC
+ Last Updated on 25/03/2026 19:16:03 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
