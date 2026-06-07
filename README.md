@@ -9,8 +9,6 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bemooooooooo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-163%20hrs%2023%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -25,50 +23,6 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                53 commits          █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-🌆 Daytime                55 commits          █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-🌃 Evening                98 commits          ████████░░░░░░░░░░░░░░░░░   33.79 % 
-🌙 Night                  84 commits          ███████░░░░░░░░░░░░░░░░░░   28.97 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-Tuesday                  78 commits          ███████░░░░░░░░░░░░░░░░░░   26.90 % 
-Wednesday                64 commits          ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
-Thursday                 17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-Friday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Saturday                 35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Sunday                   51 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Yekaterinburg
-
-💬 Programming Languages: 
-Go                       39 mins             ██████████████░░░░░░░░░░░   54.13 % 
-JavaScript               13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-Python                   10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-
-🔥 Editors: 
-VS Code                  1 hr 12 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-geocalc                  1 hr 1 min          █████████████████████░░░░   84.83 % 
-курсач_Полинка           10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-
-💻 Operating System: 
-Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -86,7 +40,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2026 19:51:57 UTC
+ Last Updated on 07/06/2026 19:53:34 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
