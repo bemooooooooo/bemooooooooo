@@ -9,6 +9,8 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bemooooooooo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-181%20hrs%2036%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -23,6 +25,45 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                53 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+🌆 Daytime                59 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+🌃 Evening                106 commits         ████████░░░░░░░░░░░░░░░░░   31.93 % 
+🌙 Night                  114 commits         █████████░░░░░░░░░░░░░░░░   34.34 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Tuesday                  80 commits          ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
+Wednesday                82 commits          ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
+Thursday                 33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Friday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Saturday                 35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Sunday                   51 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Yekaterinburg
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -40,7 +81,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:53:27 UTC
+ Last Updated on 25/07/2026 19:40:52 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
