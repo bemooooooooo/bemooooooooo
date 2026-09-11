@@ -17,7 +17,7 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
 
 **🐱 My GitHub Data** 
 
-> 📦 374.2 kB Used in GitHub's Storage 
+> 📦 374.4 kB Used in GitHub's Storage 
  > 
 > 🏆 11 Contributions in the Year 2026
  > 
@@ -25,7 +25,7 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
  > 
 > 📜 26 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 7 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -94,11 +94,11 @@ Github-Copilot           167 lines           ███████████�
 **I Mostly Code in C++** 
 
 ```text
-C++                      14 repos            █████████░░░░░░░░░░░░░░░░   36.84 % 
-Go                       6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Go                       6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 ```
 
 
@@ -108,7 +108,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 21:02:05 UTC
+ Last Updated on 11/09/2026 21:06:06 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
