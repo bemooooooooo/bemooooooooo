@@ -9,9 +9,9 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bemooooooooo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -54,39 +54,43 @@ Sunday                   51 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Python                   31 mins             █████████████████████████   100.00 % 
+Markdown                 52 mins             ██████████████░░░░░░░░░░░   55.78 % 
+Python                   41 mins             ███████████░░░░░░░░░░░░░░   44.22 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 1 min          ████████████████░░░░░░░░░   65.21 % 
+Codex Vscode             32 mins             █████████░░░░░░░░░░░░░░░░   34.79 % 
 
 🐱‍💻 Projects: 
-1 лаба                   21 mins             ██████████████████░░░░░░░   70.23 % 
-Саня                     9 mins              ███████░░░░░░░░░░░░░░░░░░   29.77 % 
+VPN                      1 hr 3 mins         █████████████████░░░░░░░░   67.01 % 
+1 лаба                   21 mins             ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
+Саня                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
 
 💻 Operating System: 
-Windows                  31 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 34 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 mins (61.17%)
+⏱ AI Coding Time: 52 mins (55.65%)
 
-✍️ 167 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,066 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 130,640 Input Tokens, 43,911 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $8.05 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 3 AI Sessions, 4 AI Prompts
 
-Github-Copilot           167 lines           █████████████████████████   100.00 % 
+GPT                      904 lines           █████████████████████░░░░   84.41 % 
+Github-Copilot           167 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 551 characters per prompt
+📚 Verbose Prompter — average 13,871 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -108,7 +112,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 21:06:06 UTC
+ Last Updated on 12/09/2026 20:43:52 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
