@@ -54,45 +54,41 @@ Sunday                   51 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Markdown                 56 mins             ██████████████░░░░░░░░░░░   57.44 % 
-Python                   41 mins             ███████████░░░░░░░░░░░░░░   42.56 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Markdown                 56 mins             ██████████████████░░░░░░░   73.92 % 
+Python                   19 mins             ███████░░░░░░░░░░░░░░░░░░   26.08 % 
 
 🔥 Editors: 
-VS Code                  1 hr 4 mins         █████████████████░░░░░░░░   66.29 % 
-Codex Vscode             33 mins             ████████░░░░░░░░░░░░░░░░░   33.71 % 
+VS Code                  43 mins             ██████████████░░░░░░░░░░░   56.62 % 
+Codex Vscode             33 mins             ███████████░░░░░░░░░░░░░░   43.38 % 
 
 🐱‍💻 Projects: 
-VPN                      1 hr 6 mins         █████████████████░░░░░░░░   68.25 % 
-1 лаба                   21 mins             ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
-Саня                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+VPN                      1 hr 6 mins         ██████████████████████░░░   87.83 % 
+Саня                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
 
 💻 Operating System: 
-Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 16 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 52 mins (53.79%)
+⏱ AI Coding Time: 33 mins (44.23%)
 
-✍️ 1,066 lines written by AI, 2 lines written by hand (99.81% AI-written)
+✍️ 899 lines written by AI, 2 lines written by hand (99.78% AI-written)
 
 🔤 137,474 Input Tokens, 44,015 Output Tokens
 
 💵 $8.14 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 5 AI Prompts
+🧠 3 AI Sessions, 4 AI Prompts
 
-GPT                      904 lines           █████████████████████░░░░   84.41 % 
-Github-Copilot           167 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+GPT                      904 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.81% of written lines came from AI
-📚 Verbose Prompter — average 11,119 characters per prompt
+🤖 AI-Driven — 99.78% of written lines came from AI
+📚 Verbose Prompter — average 13,761 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.19% of changed lines were hand-edited
+🚀 High AI Trust — 0.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -112,7 +108,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 21:34:26 UTC
+ Last Updated on 16/09/2026 21:30:06 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
