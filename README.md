@@ -54,25 +54,24 @@ Sunday                   51 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Markdown                 56 mins             ██████████████████░░░░░░░   73.92 % 
-Python                   19 mins             ███████░░░░░░░░░░░░░░░░░░   26.08 % 
+Markdown                 56 mins             █████████████████████░░░░   84.16 % 
+Python                   10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
 
 🔥 Editors: 
-VS Code                  43 mins             ██████████████░░░░░░░░░░░   56.62 % 
-Codex Vscode             33 mins             ███████████░░░░░░░░░░░░░░   43.38 % 
+VS Code                  33 mins             █████████████░░░░░░░░░░░░   50.61 % 
+Codex Vscode             33 mins             ████████████░░░░░░░░░░░░░   49.39 % 
 
 🐱‍💻 Projects: 
-VPN                      1 hr 6 mins         ██████████████████████░░░   87.83 % 
-Саня                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+VPN                      1 hr 6 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 16 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 mins (44.23%)
+⏱ AI Coding Time: 33 mins (50.36%)
 
 ✍️ 899 lines written by AI, 2 lines written by hand (99.78% AI-written)
 
@@ -108,7 +107,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 21:30:06 UTC
+ Last Updated on 17/09/2026 21:33:27 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
