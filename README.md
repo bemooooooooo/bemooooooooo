@@ -17,7 +17,7 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
 
 **🐱 My GitHub Data** 
 
-> 📦 374.4 kB Used in GitHub's Storage 
+> 📦 374.9 kB Used in GitHub's Storage 
  > 
 > 🏆 11 Contributions in the Year 2026
  > 
@@ -25,7 +25,7 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
  > 
 > 📜 26 Public Repositories 
  > 
-> 🔑 7 Private Repositories 
+> 🔑 8 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -54,32 +54,53 @@ Sunday                   51 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               32 mins             ██████████████░░░░░░░░░░░   56.60 % 
+JSON                     13 mins             ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             51 mins             ██████████████████████░░░   89.52 % 
+VS Code                  5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+work                     57 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  57 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 55 mins (96.51%)
+
+✍️ 940 lines written by AI, 2 lines written by hand (99.79% AI-written)
+
+🔤 350,134 Input Tokens, 42,657 Output Tokens
+
+💵 $13.17 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 3 AI Prompts
+
+GPT                      940 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.79% of written lines came from AI
+📝 Concise Prompter — average 468 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.21% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Go                       6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Go                       6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
@@ -89,7 +110,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 22:49:15 UTC
+ Last Updated on 02/10/2026 22:25:07 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
