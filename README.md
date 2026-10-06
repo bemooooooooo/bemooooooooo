@@ -9,7 +9,7 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bemooooooooo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-181%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-181%20hrs%2042%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2019%20mins-blue?style=flat)
 
@@ -17,7 +17,7 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
 
 **🐱 My GitHub Data** 
 
-> 📦 376.5 kB Used in GitHub's Storage 
+> 📦 376.4 kB Used in GitHub's Storage 
  > 
 > 🏆 11 Contributions in the Year 2026
  > 
@@ -54,27 +54,27 @@ Sunday                   51 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-TypeScript               32 mins             ██████████████░░░░░░░░░░░   56.60 % 
-JSON                     13 mins             ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+TypeScript               32 mins             ██████████████░░░░░░░░░░░   55.63 % 
+JSON                     13 mins             ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 
 🔥 Editors: 
-Codex Vscode             51 mins             ██████████████████████░░░   89.52 % 
-VS Code                  5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Codex Vscode             51 mins             ██████████████████████░░░   87.99 % 
+VS Code                  6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
 
 🐱‍💻 Projects: 
-work                     57 mins             █████████████████████████   100.00 % 
+work                     58 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  57 mins             █████████████████████████   100.00 % 
+Windows                  58 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 55 mins (96.51%)
+⏱ AI Coding Time: 55 mins (94.85%)
 
 ✍️ 940 lines written by AI, 2 lines written by hand (99.79% AI-written)
 
@@ -110,7 +110,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 21:43:33 UTC
+ Last Updated on 06/10/2026 00:13:22 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
