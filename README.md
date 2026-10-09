@@ -17,7 +17,7 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
 
 **🐱 My GitHub Data** 
 
-> 📦 378.0 kB Used in GitHub's Storage 
+> 📦 379.7 kB Used in GitHub's Storage 
  > 
 > 🏆 11 Contributions in the Year 2026
  > 
@@ -27,72 +27,6 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                53 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-🌆 Daytime                61 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-🌃 Evening                110 commits         ████████░░░░░░░░░░░░░░░░░   31.16 % 
-🌙 Night                  129 commits         █████████░░░░░░░░░░░░░░░░   36.54 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Tuesday                  81 commits          ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-Wednesday                91 commits          ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
-Thursday                 41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Friday                   25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-Saturday                 35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Sunday                   51 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Yekaterinburg
-
-💬 Programming Languages: 
-TypeScript               32 mins             ██████████████░░░░░░░░░░░   55.63 % 
-JSON                     13 mins             ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-
-🔥 Editors: 
-Codex Vscode             51 mins             ██████████████████████░░░   87.99 % 
-VS Code                  6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-
-🐱‍💻 Projects: 
-work                     58 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  58 mins             █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 55 mins (94.85%)
-
-✍️ 940 lines written by AI, 2 lines written by hand (99.79% AI-written)
-
-🔤 350,134 Input Tokens, 42,657 Output Tokens
-
-💵 $13.17 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 3 AI Prompts
-
-GPT                      940 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.79% of written lines came from AI
-📝 Concise Prompter — average 468 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.21% of changed lines were hand-edited
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -110,7 +44,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 23:30:07 UTC
+ Last Updated on 09/10/2026 22:48:09 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
