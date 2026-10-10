@@ -27,6 +27,70 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                53 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+🌆 Daytime                61 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+🌃 Evening                110 commits         ████████░░░░░░░░░░░░░░░░░   31.16 % 
+🌙 Night                  129 commits         █████████░░░░░░░░░░░░░░░░   36.54 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Tuesday                  81 commits          ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
+Wednesday                91 commits          ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
+Thursday                 41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Friday                   25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Saturday                 35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Sunday                   51 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Yekaterinburg
+
+💬 Programming Languages: 
+JavaScript               20 mins             █████████████████░░░░░░░░   67.28 % 
+TypeScript               8 mins              ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+
+🔥 Editors: 
+Codex Vscode             29 mins             ████████████████████████░   96.68 % 
+VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+
+🐱‍💻 Projects: 
+work                     30 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  30 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 29 mins (96.68%)
+
+✍️ 58 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 151,007 Input Tokens, 21,433 Output Tokens
+
+💵 $9.24 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+GPT                      58 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 302 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -44,7 +108,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 22:48:09 UTC
+ Last Updated on 10/10/2026 21:55:31 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
