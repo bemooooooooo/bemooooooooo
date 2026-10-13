@@ -17,7 +17,7 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
 
 **🐱 My GitHub Data** 
 
-> 📦 379.8 kB Used in GitHub's Storage 
+> 📦 380.8 kB Used in GitHub's Storage 
  > 
 > 🏆 11 Contributions in the Year 2026
  > 
@@ -54,41 +54,22 @@ Sunday                   51 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-JavaScript               20 mins             █████████████████░░░░░░░░   67.28 % 
-TypeScript               8 mins              ███████░░░░░░░░░░░░░░░░░░   27.71 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             29 mins             ████████████████████████░   96.68 % 
-VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-work                     30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 mins (96.68%)
-
-✍️ 58 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 151,007 Input Tokens, 21,433 Output Tokens
-
-💵 $9.24 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-GPT                      58 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 302 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -108,7 +89,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 22:11:57 UTC
+ Last Updated on 13/10/2026 00:54:18 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
