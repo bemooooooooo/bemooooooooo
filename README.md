@@ -17,7 +17,7 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
 
 **🐱 My GitHub Data** 
 
-> 📦 382.0 kB Used in GitHub's Storage 
+> 📦 383.9 kB Used in GitHub's Storage 
  > 
 > 🏆 11 Contributions in the Year 2026
  > 
@@ -30,21 +30,21 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-🌆 Daytime                107 commits         ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
-🌃 Evening                146 commits         ████████░░░░░░░░░░░░░░░░░   33.56 % 
-🌙 Night                  129 commits         ███████░░░░░░░░░░░░░░░░░░   29.66 % 
+🌞 Morning                53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+🌆 Daytime                116 commits         ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+🌃 Evening                162 commits         █████████░░░░░░░░░░░░░░░░   35.22 % 
+🌙 Night                  129 commits         ███████░░░░░░░░░░░░░░░░░░   28.04 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Tuesday                  81 commits          █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-Wednesday                129 commits         ███████░░░░░░░░░░░░░░░░░░   29.66 % 
-Thursday                 41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Friday                   25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-Saturday                 69 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Sunday                   51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Monday                   42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+Tuesday                  81 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Wednesday                138 commits         ████████░░░░░░░░░░░░░░░░░   30.00 % 
+Thursday                 48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Friday                   25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Saturday                 75 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Sunday                   51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
 ```
 
 
@@ -54,51 +54,32 @@ Sunday                   51 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-YAML                     27 mins             ██████████████████████░░░   87.60 % 
-Other                    3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             30 mins             █████████████████████████   98.17 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-work                     30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 mins (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 106,337 Input Tokens, 38,883 Output Tokens
-
-💵 $1.12 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 150 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Go                       6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Go                       6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 ```
 
 
@@ -108,7 +89,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 21:53:39 UTC
+ Last Updated on 22/10/2026 21:49:07 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
