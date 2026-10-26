@@ -17,7 +17,7 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
 
 **🐱 My GitHub Data** 
 
-> 📦 383.2 kB Used in GitHub's Storage 
+> 📦 385.1 kB Used in GitHub's Storage 
  > 
 > 🏆 11 Contributions in the Year 2026
  > 
@@ -30,21 +30,21 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-🌆 Daytime                134 commits         ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
-🌃 Evening                204 commits         ██████████░░░░░░░░░░░░░░░   39.23 % 
-🌙 Night                  129 commits         ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
+🌞 Morning                53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+🌆 Daytime                164 commits         ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+🌃 Evening                283 commits         ███████████░░░░░░░░░░░░░░   44.99 % 
+🌙 Night                  129 commits         █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-Tuesday                  81 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Wednesday                156 commits         ████████░░░░░░░░░░░░░░░░░   30.00 % 
-Thursday                 72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Friday                   25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Saturday                 87 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-Sunday                   51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Monday                   67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Tuesday                  81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Wednesday                186 commits         ███████░░░░░░░░░░░░░░░░░░   29.57 % 
+Thursday                 112 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+Friday                   25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Saturday                 107 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Sunday                   51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
 ```
 
 
@@ -54,22 +54,40 @@ Sunday                   51 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PowerShell               34 mins             █████████████████████░░░░   84.47 % 
+Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+JavaScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             41 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+work                     41 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  41 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 41 mins (100.0%)
+
+✍️ 306 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 725,211 Input Tokens, 28,164 Output Tokens
+
+💵 $2.15 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 2 AI Prompts
+
+GPT                      306 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 108 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -89,7 +107,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 21:02:15 UTC
+ Last Updated on 26/10/2026 22:49:30 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
