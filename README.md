@@ -9,15 +9,15 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bemooooooooo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 385.1 kB Used in GitHub's Storage 
+> 📦 391.2 kB Used in GitHub's Storage 
  > 
 > 🏆 11 Contributions in the Year 2026
  > 
@@ -30,21 +30,21 @@ Skills: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badg
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-🌆 Daytime                164 commits         ███████░░░░░░░░░░░░░░░░░░   26.07 % 
-🌃 Evening                283 commits         ███████████░░░░░░░░░░░░░░   44.99 % 
-🌙 Night                  129 commits         █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+🌞 Morning                53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+🌆 Daytime                198 commits         ███████░░░░░░░░░░░░░░░░░░   26.94 % 
+🌃 Evening                355 commits         ████████████░░░░░░░░░░░░░   48.30 % 
+🌙 Night                  129 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-Tuesday                  81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Wednesday                186 commits         ███████░░░░░░░░░░░░░░░░░░   29.57 % 
-Thursday                 112 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-Friday                   25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-Saturday                 107 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Sunday                   51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Monday                   91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Tuesday                  91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Wednesday                210 commits         ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Thursday                 144 commits         █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+Friday                   25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Saturday                 123 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Sunday                   51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
 ```
 
 
@@ -95,9 +95,9 @@ GPT                      306 lines           ███████████�
 ```text
 Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
 Go                       6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
 JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 ```
 
 
@@ -107,7 +107,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bemooooooooo/bemooooooooo/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 22:49:30 UTC
+ Last Updated on 27/10/2026 22:29:04 UTC
 <!--END_SECTION:waka-->
 
 ## Projects:
